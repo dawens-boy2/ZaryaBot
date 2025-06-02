@@ -1,4 +1,4 @@
-## THIS PROJECT IS OFF DEPOLY BOT FROM HERE [𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏](https://github.com/dawens-boy2/ZaryaBot)
+## THIS PROJECT IS OFF DEPOLY BOT FROM HERE [𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏](https://zaryabot-5bdffd2e5a94.herokuapp.com/)
 
 ## NEW UPDATE OF 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 STRONG AND POWER FULL BOT DEPOLY FROM [𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏](https://github.com/dawens-boy2/ZaryaBot)
 
